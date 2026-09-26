@@ -272,15 +272,6 @@ Sometimes it becomes the entire development environment.
 
 </div>
 
-# 🐍 Contribution Snake
-
-<p>
-  <img
-    src="https://raw.githubusercontent.com/zikky0001-droid/zikky0001-droid/output/github-contribution-grid-snake.svg"
-    alt="DEVZIKKY Contribution Snake"
-  >
-</p>
-
 ---
 
 # 🧪 Currently Building
