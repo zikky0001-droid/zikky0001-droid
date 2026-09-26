@@ -274,13 +274,12 @@ Sometimes it becomes the entire development environment.
 
 # 🐍 Contribution Snake
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/zikky0001-droid/zikky0001-droid/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-> The snake requires a GitHub Actions workflow that generates the `output` branch/file. If it isn't configured yet, this image will not appear until that workflow exists.
+<p>
+  <img
+    src="https://raw.githubusercontent.com/zikky0001-droid/zikky0001-droid/output/github-contribution-grid-snake.svg"
+    alt="DEVZIKKY Contribution Snake"
+  >
+</p>
 
 ---
 
