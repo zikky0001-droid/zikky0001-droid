@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="./icon.png" width="90" alt="DEVZIKKY icon"/>
+<img src="./icon.png" width="500" alt="DEVZIKKY icon"/>
 
 </div>
 
@@ -264,14 +264,6 @@ Sometimes it becomes the entire development environment.
 
 # 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zikky0001-droid&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=00baff" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zikky0001-droid&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888" width="49%" />
-
-</div>
-
 <br/>
 
 <div align="center">
@@ -279,28 +271,6 @@ Sometimes it becomes the entire development environment.
 <img src="https://streak-stats.demolab.com/?user=zikky0001-droid&theme=dark&hide_border=true&background=0d0d0d&stroke=1a1a1a&ring=00baff&fire=00c8ff&currStreakLabel=ffffff&sideLabels=888888&dates=444444&currStreakNum=ffffff&sideNums=aaaaaa" width="60%" />
 
 </div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zikky0001-droid&bg_color=0d0d0d&color=888888&line=00aaff&point=00c8ff&area=true&area_color=111111&hide_border=true&radius=6" width="100%" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=zikky0001-droid&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 
